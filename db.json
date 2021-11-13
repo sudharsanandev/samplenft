@@ -1,28 +1,4 @@
 {
-"demo":{
-  [
-  {
-  "id": 0,
-  "description": "My NFT",
-  "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-  "image": "https://pbs.twimg.com/profile_images/1447396073031544841/KIG_42YQ.jpg",
-  "name": "My NFT 0"
-},
-{
-  "id": 1,
-  "description": "My NFT 1",
-  "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-  "image": "https://pbs.twimg.com/profile_images/1447396073031544841/KIG_42YQ.jpg",
-  "name": "My NFT 0"
-},
-{
-  "id": 2,
-  "description": "My NFT 2",
-  "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-  "image": "https://pbs.twimg.com/profile_images/1447396073031544841/KIG_42YQ.jpg",
-  "name": "My NFT 0"
-}
-  ],
 "tokens":{
   [
   {
